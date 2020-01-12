@@ -10,7 +10,7 @@ you will see 3 icon below the date (Lock,Forbid, and close)
 available command to type in the textbox
 1122- to run at startup
 2211- to remove at startup
-1231- change password
+cpass- change password
 
 2nd icon is forbidden icon
 when you click this it will automatically close all kind of browser and prevent to open it
